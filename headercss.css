@@ -1,0 +1,223 @@
+.top-nav{
+  background-color: #DCDBDB;
+}
+
+.navbar1-color{
+    background-color: #C4A099;
+    color: black;
+}
+
+.container-crum{
+  height: 10px;
+}
+
+.crum-size{
+  font-size: 11px;
+  margin-right: 40px;
+}
+
+.navbar2-color{
+    background-color: #60184C;
+    color: black;
+}
+
+.container-h{
+  height: 70px;
+    margin: 0px;
+}
+
+.title{
+    font-weight: 660;
+    color: white;
+    font-family: Oswald;
+}
+.container-title{
+  font-size: 35px;
+}
+
+.input-h{
+  height: 28px;
+}
+
+.container{
+    max-width: 100%;
+}
+
+.nav-gabung {
+    width: auto;
+    height: 592px;
+}
+
+.nav-gabung1 {
+    width: auto;
+    background-color: #C4A099;
+}
+
+.fill {
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-image: url('img/home1.png');
+}
+
+.button{
+    width: 100%;
+}
+
+.btn-warning{
+    min-width:335px;
+    background-color: #60184C;
+}
+
+.fill1{
+    background-image: url(img/promo1-100.jpg);
+    background-size: 1439px;
+    height: 65vh;
+    background-repeat: no-repeat;
+}
+
+.like {
+  font-size: 1.5rem;
+}
+
+.nav-gabung2 {
+    width: auto;
+    background-color: #F4E1DB;
+    height: 62vh;
+}
+
+.btn-potd{
+    min-width:20px;
+    background-color: white;
+}
+
+.fill2{
+    background-image: url(img/rekomendasi.jpg);
+    background-size: 1439px;
+    height: 74vh;
+    background-repeat: no-repeat;
+}
+
+.nav-gabung3 {
+    width: auto;
+    background-color: #C4A099;
+    height: 70vh;
+}
+
+.fa-star{
+    color: yellow;
+}
+
+.bg-review{
+    background-color: #FFF8DF;
+}
+
+.fill3{
+    background-image: url(img/whyus.jpg);
+    background-size: 1439px;
+    height: 74vh;
+    background-repeat: no-repeat;
+}
+
+.nav-gabung4 {
+    width: auto;
+    background-color: #60184C;
+    height: 65vh;
+}
+
+.nav-gabung5 {
+    width: auto;
+    background-color: #FFF8DF;
+    height: 24vh;
+    padding: 4rem 0 4rem 0;
+}
+.fill4{
+    background-image: url(img/atasfotter.png);
+    background-size: 1439px;
+    height: 74vh;
+    background-repeat: no-repeat;
+}
+
+
+/* divider */
+.separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.separator::before, .separator::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid #000;
+}
+.separator::before {
+    margin-right: .25em;
+}
+.separator::after {
+    margin-left: .25em;
+}
+
+/*masuk/daftar*/
+ 
+.login-register-form-section {
+        max-width: 350px;
+        margin: 0 auto;
+    }
+
+ .login-register-form-section i {
+        width: auto;
+    }
+
+.login-register-form-section .nav-tabs > li > a {
+        background-color: #FFFFFF;
+        color: black;
+    }
+ 
+.login-register-form-section .nav-tabs > li.active > a {
+        background-color: #FFFFFF;
+        border-color: #123C8B;
+        color: #123C8B;
+    }
+
+.login-register-form-section .nav-tabs > li > a, 
+.login-register-form-section .nav-tabs > li.active > a {
+        width: 175px;
+        text-align: center; 
+        border-radius: 0;
+    }
+
+.login-register-form-section .nav-tabs {
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+.tab-pane.fade{
+    display: none;
+}
+.tab-pane.fade.active.show.in{
+    display: block;
+}
+.login-register-form-section .form-group {
+        padding: 0 10px;
+    }
+
+.nav-item.nav-daftar{
+    width: 50%
+}
+
+.btn1{
+	background-color: #60184c;
+	border-color: #000;
+    color: white;
+    min-width:335px;
+}
+
+.btn2{
+min-width:335px;
+}
+
+.copyright p {
+    font-size: 0.9rem;
+    margin: 0;
+    margin-bottom: 0.5rem;
+}
